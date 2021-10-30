@@ -1,0 +1,8 @@
+jupyter
+ipykernel
+tensorflow-gpu
+pandas
+scikit-learn
+matplotlib
+scipy
+tqdm
